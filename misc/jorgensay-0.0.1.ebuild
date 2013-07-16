@@ -7,8 +7,8 @@ EAPI=5
 inherit games git-2
 
 DESCRIPTION="Jorgen cowsay"
-HOMEPAGE="https://github.com/daktak/jorgen-say"
-EGIT_REPO_URI="https://github.com/daktak/jorgen-say.git"
+HOMEPAGE="https://github.com/daktak/jorgen_say"
+EGIT_REPO_URI="https://github.com/daktak/jorgen_say.git"
 
 LICENSE="GPL-2"
 SLOT="0"
