@@ -27,5 +27,5 @@ src_install () {
 	doins jorgen.dat || die
 	insinto /usr/share/${COWV}/cows
 	doins jorgen.cow || die
-	dobin jorgen.sh || die
+	dobin jorgen-say.sh || die
 }
