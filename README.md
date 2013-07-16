@@ -10,16 +10,15 @@ INSTALL
 
 EXECUTE
 =======
-$ fortune jorgen | cowsay -f bike
- _________________________________________ 
-`/ Q: Did you hear about the failed        \
-| comedian who quit his job in fear? A:   |
-| He was afraid of being pun-ished by the |
-\ audience!                               /
- ----------------------------------------- 
-      \
-       \
-     ___O   
-   _--<-_   
-  (_)/  (_)
-`
+    $ fortune jorgen | cowsay -f bike
+     _________________________________________ 
+    / Q: Did you hear about the failed        \
+    | comedian who quit his job in fear? A:   |
+    | He was afraid of being pun-ished by the |
+    \ audience!                               /
+     ----------------------------------------- 
+          \
+           \
+         ___O   
+       _--<-_   
+      (_)/  (_)
