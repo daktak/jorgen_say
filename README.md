@@ -8,6 +8,10 @@ INSTALL
 1. copy jorgen.dat into your fortune directory
 2. copy bike.cow into your cowsay cows directory
 
+UPDATE QUOTES
+=============
+    $ strfile jorgen jorgen.dat
+
 EXECUTE
 =======
     $ fortune jorgen | cowsay -f bike
